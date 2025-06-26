@@ -90,3 +90,5 @@ Once installed, the progress bar will automatically appear on your cart page. It
 1. Show current progress toward free shipping
 2. Update automatically when cart changes
 3. Display a success message when free shipping is achieved
+
+Read full article about this repository here: https://ecommerce.createit.com/news/simple-free-shipping-bar-for-woocommerce-source-code/ 
